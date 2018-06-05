@@ -1,0 +1,17 @@
+.loginContainer {
+    box-shadow: 1px 2px 1px 1px rgba(0,0,0,0.5);
+    width:200px;
+    padding:20px;
+    margin:auto;
+}
+input {
+    padding: 5px;
+    width: 90%;
+}
+.btn {
+    border: none;
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+    width: 100%;
+}
